@@ -5,9 +5,9 @@ FernandoSantiagoBecker/FernandoSantiagoBecker
 
 ## 📚 Experience 
 
-* ** Language of Back-End: Java,
-* ** Language of Front-End: HTML,CSS,JavaScript,
-* ** Language of Database: PostgreSQL
+*  Language of Back-End: Java,
+*  Language of Front-End: HTML,CSS,JavaScript,
+*  Language of Database: PostgreSQL
 
 <!--
 **FernandoSantiagoBecker/FernandoSantiagoBecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
