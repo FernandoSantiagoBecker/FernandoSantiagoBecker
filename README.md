@@ -5,8 +5,8 @@ FernandoSantiagoBecker/FernandoSantiagoBecker
 
 ## 📚 Experience 
 
-*  Language of Back-End: Java,
-*  Language of Front-End: HTML,CSS,JavaScript,
+*  Language of Back-End: Java.
+*  Language of Front-End: HTML,CSS,JavaScript.
 *  Language of Database: PostgreSQL
 
 <!--
