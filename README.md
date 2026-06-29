@@ -1,6 +1,13 @@
 ## Hi there 👋
 FernandoSantiagoBecker/FernandoSantiagoBecker
 # Hi, i'm Fernando Santiago Becker
+*Student in the Integrated Technical Course in Informatics at the Federal Institute of Rio Grande do Sul*
+
+## 📚 Experience 
+
+* ** Language of Back-End: Java,
+* ** Language of Front-End: HTML,CSS,JavaScript,
+* ** Language of Database: PostgreSQL
 
 <!--
 **FernandoSantiagoBecker/FernandoSantiagoBecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
